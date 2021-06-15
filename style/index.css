@@ -155,9 +155,10 @@ section {
   margin: auto;
 }
 
-h1 {
+h5 {
   padding-top: 10%;
-  font-size: 48px;
+  font-size: 56px;
+  font-weight: 100;
 }
 
 #projects {
